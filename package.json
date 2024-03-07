@@ -1,5 +1,5 @@
 {
-  "name": "adaptive-card-notifi",
+  "name": "timezone-translator",
   "version": "1.0.0",
   "description": "Microsoft Teams Toolkit Adaptive Card Notification Bot Sample",
   "engines": {

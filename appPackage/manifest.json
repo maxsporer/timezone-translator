@@ -15,12 +15,12 @@
         "outline": "outline.png"
     },
     "name": {
-        "short": "adaptive-card-notifi${{APP_NAME_SUFFIX}}",
-        "full": "full name for adaptive-card-notifi"
+        "short": "timezone-translator${{APP_NAME_SUFFIX}}",
+        "full": "full name for timezone translator"
     },
     "description": {
-        "short": "short description for adaptive-card-notifi",
-        "full": "full description for adaptive-card-notifi"
+        "short": "short description for timezone-translator",
+        "full": "full description for timezone-translator"
     },
     "accentColor": "#FFFFFF",
     "bots": [
